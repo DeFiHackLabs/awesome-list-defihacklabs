@@ -4,10 +4,10 @@ A curated list of resources contributed by [DeFiHackLabs](https://defihacklabs.i
 
 
 ## 📚 DeFiHackLabs Research Deck
-- **[DeFiHackLabs GitHub Repository](https://github.com/SunWeb3Sec/DeFiHackLabs)**  
+- **[DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)**  
   Collection of DeFi security incident PoCs.
 
-- **[DeFiVulnLabs GitHub Repository](https://github.com/SunWeb3Sec/DeFiVulnLabs)**  
+- **[DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)**  
   Hands-on exercises and recreated vulnerabilities for learning smart contract security.
   
 - **[Incident Explorer](https://defihacklabs.io/explorer/)**  
