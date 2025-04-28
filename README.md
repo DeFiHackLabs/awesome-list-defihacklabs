@@ -114,6 +114,8 @@ Combines DeFiHackLabs and Root Cause Report RCA into an Incident Explorer, makin
 
 | Conference Name | Topic | Speaeker |Slide|
 | ---- | ---- | ---- | ---- |
+|AWS Summit 2023|Web3 Security|[SunSec](https://x.com/1nf0s3cpt)|[📝](https://drive.google.com/file/d/14RmHEWollRieV50_RdmcLZrK-Oi0nA9Q/view?usp=sharing)
+|HK Web3 Festival 2024|Web3 DevSecOps:Methodology and Best Practices|[SunSec](https://x.com/1nf0s3cpt)|[📝](https://drive.google.com/file/d/1Iv_C9Q3kj2aR9YpPsWrHEyekfGvIZtaB/view?usp=sharing)|
 |CyberSec 2024|Web3 DevSecOps:Methodology and Best Practices|[SunSec](https://x.com/1nf0s3cpt)|[📝](https://drive.google.com/file/d/1vRZluCRzOIn9x7x36bBCVO6sC6OeAHzo/view)|
 |CyberSec 2024|Unlawful Financial Activities in Blockchain： Revealing Hidden Financial Flows from the Blue Team's Perspective|Wolf,Miffy|[📝](https://drive.google.com/file/d/1oE8MrMkKXGrOg4fkjE1n-3EoShu76gh3/view)|
 |CyberSec 2024|DeFi Security Incident Analysis|[Alice](https://x.com/AliceHsu_kou),[York](https://x.com/YorkChang01)|[📝](./slide/CyberSec-2024-Alice&York.pdf)|
@@ -121,7 +123,8 @@ Combines DeFiHackLabs and Root Cause Report RCA into an Incident Explorer, makin
 |HITCON 2024|DeFi Hacks:Exploit Reproduce 101|[Seal](https://x.com/h0wsO1)|[📝](https://hitcon.org/2024/CMT/slides/DeFi_Exploit_Reproduce_Workshop.pdf)|
 |ETH TAIPEI 2025|Exploring AI’s Role in Smart Contract Security|[Alice](https://x.com/AliceHsu_kou), [Daky](https://x.com/ga013077)|[📝](https://github.com/OneSavieLabs/Bastet/blob/main/slide/ETH-TAIPEI-2025.pdf)|
 |CyberSec 2025|AI-Driven Smart Contract Vulnerability Detection|[Alice](https://x.com/AliceHsu_kou), [Daky](https://x.com/ga013077)|[📝](https://github.com/OneSavieLabs/Bastet/blob/main/slide/CyberSec-2025.pdf)|
-
+|CyberSec 2025|Reentrancy Trap: Debunking the Myth of Smart Contract Immutability|[Helen](https://x.com/hellowtheworldd)|[📝]()|
+|CyberSec 2025|Security Challenges in Ethereum Layer 2 and Cross-Chain Ecosystems|[Louis](https://x.com/0xlouistsai)|[📝](https://ccms.ithome.com.tw/api/slideapi/1912/click?l=https%3A%2F%2Fs.itho.me%2Fccms_slides%2F2025%2F4%2F28%2Fcd4b3737-aaa9-41c1-bc7d-a1d9bb692504.pdf)|
 
 ## 🔧 Tools and Resources
 
