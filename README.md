@@ -111,7 +111,16 @@ Combines DeFiHackLabs and Root Cause Report RCA into an Incident Explorer, makin
 
 ## 🎤 Conference Talks
 
-| Talk Name | Conference Name | Author | Link |
+
+| Conference Name | Topic | Speaeker |Slide|
+| ---- | ---- | ---- | ---- |
+|CyberSec 2024|Web3 DevSecOps:Methodology and Best Practices|[SunSec](https://x.com/1nf0s3cpt)|[📝](https://drive.google.com/file/d/1vRZluCRzOIn9x7x36bBCVO6sC6OeAHzo/view)|
+|CyberSec 2024|Unlawful Financial Activities in Blockchain： Revealing Hidden Financial Flows from the Blue Team's Perspective|Wolf,Miffy|[📝](https://drive.google.com/file/d/1oE8MrMkKXGrOg4fkjE1n-3EoShu76gh3/view)|
+|CyberSec 2024|DeFi Security Incident Analysis|[Alice](https://x.com/AliceHsu_kou),[York](https://x.com/YorkChang01)|[📝](./slide/CyberSec-2024-Alice&York.pdf)|
+|COSCUP 2024|Ethereum Cancun Upgrade |[Bill](https://x.com/hibillh)|[📝](https://gamma.app/docs/COSCUP-Ethereum-Cancun-Upgrade--2h8q9d501pu5es4?mode=doc)|
+|HITCON 2024|DeFi Hacks:Exploit Reproduce 101|[Seal](https://x.com/h0wsO1)|[📝](https://hitcon.org/2024/CMT/slides/DeFi_Exploit_Reproduce_Workshop.pdf)|
+|ETH TAIPEI 2025|Exploring AI’s Role in Smart Contract Security|[Alice](https://x.com/AliceHsu_kou), [Daky](https://x.com/ga013077)|[📝](https://github.com/OneSavieLabs/Bastet/blob/main/slide/ETH-TAIPEI-2025.pdf)|
+|CyberSec 2025|AI-Driven Smart Contract Vulnerability Detection|[Alice](https://x.com/AliceHsu_kou), [Daky](https://x.com/ga013077)|[📝](https://github.com/OneSavieLabs/Bastet/blob/main/slide/CyberSec-2025.pdf)|
 
 
 ## 🔧 Tools and Resources
